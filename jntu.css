@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+@media(max-width:480px){
+    
+.container{
+    size: 1000px;
+}
+
+
+}
